@@ -1,2 +1,2 @@
 # Dig-In
-> Upgrade and Evolve LinkedIn
+> Upgrade Linked-In
